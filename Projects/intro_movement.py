@@ -1,4 +1,4 @@
-# Secetion 1:Setup
+# Section 1:Setup
 import codesters
 from codesters import StageClass
 stage = StageClass()

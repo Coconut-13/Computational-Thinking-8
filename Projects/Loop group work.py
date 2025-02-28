@@ -6,7 +6,7 @@ t.goto(-100, -100)
 t.color("green")
 t.pendown()
 
-for i in range(1000000)
+for i in range(1000000) :
 t.forward(0.1)
 t.left(179)
 t.forward(0.1)
